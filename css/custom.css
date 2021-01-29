@@ -25,3 +25,17 @@
 .btnHero:hover {
   border-width: 3px;
 }
+.imgCustomGrid {
+  max-height: 270px;
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.cardProdotto {
+  border-radius: 10px !important;
+}
+.portfolio-caption {
+  box-shadow: 3px 3px 7px 1px #333333;
+  -webkit-box-shadow: 3px 3px 7px 1px #333333;
+  -moz-box-shadow: 3px 3px 7px 1px #333333;
+}

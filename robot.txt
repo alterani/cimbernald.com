@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /prova.html
+Disallow: /prova2.html
+Disallow: /index_sito_in_costruzione.html
