@@ -1,0 +1,27 @@
+.logoCimb {
+  color: rgb(0, 0, 0, 0.8) !important;
+  font-style: oblique;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.customheroTitle {
+  color: rgb(0, 0, 0, 0.6) !important;
+}
+
+.customhero {
+  color: rgb(0, 0, 0, 0.6) !important;
+}
+
+.customhero:hover {
+  color: rgb(0, 0, 0) !important;
+  font-weight: bold;
+}
+
+.btnHero {
+  color: rgb(0, 0, 0, 0.6);
+  background-color: transparent;
+  border-style: solid;
+  border-color: black;
+}
+.btnHero:hover {
+  border-width: 3px;
+}
